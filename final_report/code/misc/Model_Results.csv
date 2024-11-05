@@ -1,0 +1,175 @@
+correct,count,score,assesing,model,dataset,assessed
+289.0,289.0,100.0,type,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,none
+203.0,203.0,100.0,type,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,left
+136.0,136.0,100.0,type,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,center
+197.0,197.0,100.0,type,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,right
+30.0,30.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,white-nationalism
+22.0,22.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,gender
+7.0,7.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,#metoo
+68.0,68.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,marriage-equality
+54.0,54.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,taxes
+22.0,22.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,student-debt
+50.0,50.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,black lives matter
+40.0,40.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,environment
+35.0,35.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,islam
+46.0,46.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,abortion
+34.0,34.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,blm
+26.0,26.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,international-politics-and-world-news
+35.0,35.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,gun-control
+47.0,47.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,universal health care
+34.0,34.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,immigration
+29.0,29.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,elections-2020
+66.0,66.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,vaccine
+23.0,23.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,vaccines
+53.0,53.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,gun control
+27.0,27.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,trump-presidency
+27.0,27.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,middle-class
+29.0,29.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,sport
+21.0,21.0,100.0,topic,valurank/distilroberta-bias,./clean_datasets/TESTING_DATAFRAME.csv,coronavirus
+0.0,100.0,0.0,type,valurank/distilroberta-bias,./clean_datasets/BIG_TESTING_DATAFRAME.csv,YYY
+0.0,100.0,0.0,topic,valurank/distilroberta-bias,./clean_datasets/BIG_TESTING_DATAFRAME.csv,XXX
+289.0,289.0,100.0,type,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,none
+203.0,203.0,100.0,type,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,left
+136.0,136.0,100.0,type,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,center
+197.0,197.0,100.0,type,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,right
+30.0,30.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,white-nationalism
+22.0,22.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,gender
+7.0,7.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,#metoo
+68.0,68.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,marriage-equality
+54.0,54.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,taxes
+22.0,22.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,student-debt
+50.0,50.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,black lives matter
+40.0,40.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,environment
+35.0,35.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,islam
+46.0,46.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,abortion
+34.0,34.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,blm
+26.0,26.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,international-politics-and-world-news
+35.0,35.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,gun-control
+47.0,47.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,universal health care
+34.0,34.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,immigration
+29.0,29.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,elections-2020
+66.0,66.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,vaccine
+23.0,23.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,vaccines
+53.0,53.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,gun control
+27.0,27.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,trump-presidency
+27.0,27.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,middle-class
+29.0,29.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,sport
+21.0,21.0,100.0,topic,./fine_tuned/VALURANK,./clean_datasets/TESTING_DATAFRAME.csv,coronavirus
+0.0,100.0,0.0,type,./fine_tuned/VALURANK,./clean_datasets/BIG_TESTING_DATAFRAME.csv,YYY
+0.0,100.0,0.0,topic,./fine_tuned/VALURANK,./clean_datasets/BIG_TESTING_DATAFRAME.csv,XXX
+289.0,289.0,100.0,type,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,none
+203.0,203.0,100.0,type,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,left
+136.0,136.0,100.0,type,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,center
+197.0,197.0,100.0,type,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,right
+30.0,30.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,white-nationalism
+22.0,22.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,gender
+7.0,7.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,#metoo
+68.0,68.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,marriage-equality
+54.0,54.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,taxes
+22.0,22.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,student-debt
+50.0,50.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,black lives matter
+40.0,40.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,environment
+35.0,35.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,islam
+46.0,46.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,abortion
+34.0,34.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,blm
+26.0,26.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,international-politics-and-world-news
+35.0,35.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,gun-control
+47.0,47.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,universal health care
+34.0,34.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,immigration
+29.0,29.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,elections-2020
+66.0,66.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,vaccine
+23.0,23.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,vaccines
+53.0,53.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,gun control
+27.0,27.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,trump-presidency
+27.0,27.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,middle-class
+29.0,29.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,sport
+21.0,21.0,100.0,topic,D1V1DE/bias-detection,./clean_datasets/TESTING_DATAFRAME.csv,coronavirus
+0.0,100.0,0.0,type,D1V1DE/bias-detection,./clean_datasets/BIG_TESTING_DATAFRAME.csv,YYY
+0.0,100.0,0.0,topic,D1V1DE/bias-detection,./clean_datasets/BIG_TESTING_DATAFRAME.csv,XXX
+289.0,289.0,100.0,type,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,none
+203.0,203.0,100.0,type,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,left
+136.0,136.0,100.0,type,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,center
+197.0,197.0,100.0,type,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,right
+30.0,30.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,white-nationalism
+22.0,22.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,gender
+7.0,7.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,#metoo
+68.0,68.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,marriage-equality
+54.0,54.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,taxes
+22.0,22.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,student-debt
+50.0,50.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,black lives matter
+40.0,40.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,environment
+35.0,35.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,islam
+46.0,46.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,abortion
+34.0,34.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,blm
+26.0,26.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,international-politics-and-world-news
+35.0,35.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,gun-control
+47.0,47.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,universal health care
+34.0,34.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,immigration
+29.0,29.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,elections-2020
+66.0,66.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,vaccine
+23.0,23.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,vaccines
+53.0,53.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,gun control
+27.0,27.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,trump-presidency
+27.0,27.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,middle-class
+29.0,29.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,sport
+21.0,21.0,100.0,topic,./fine_tuned/D1V1DE,./clean_datasets/TESTING_DATAFRAME.csv,coronavirus
+0.0,100.0,0.0,type,./fine_tuned/D1V1DE,./clean_datasets/BIG_TESTING_DATAFRAME.csv,YYY
+0.0,100.0,0.0,topic,./fine_tuned/D1V1DE,./clean_datasets/BIG_TESTING_DATAFRAME.csv,XXX
+0.0,100.0,0.0,type,d4data/bias-detection-model,./clean_datasets/BIG_TESTING_DATAFRAME.csv,YYY
+0.0,100.0,0.0,topic,d4data/bias-detection-model,./clean_datasets/BIG_TESTING_DATAFRAME.csv,XXX
+289.0,289.0,100.0,type,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,none
+203.0,203.0,100.0,type,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,left
+136.0,136.0,100.0,type,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,center
+197.0,197.0,100.0,type,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,right
+30.0,30.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,white-nationalism
+22.0,22.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,gender
+7.0,7.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,#metoo
+68.0,68.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,marriage-equality
+54.0,54.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,taxes
+22.0,22.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,student-debt
+50.0,50.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,black lives matter
+40.0,40.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,environment
+35.0,35.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,islam
+46.0,46.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,abortion
+34.0,34.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,blm
+26.0,26.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,international-politics-and-world-news
+35.0,35.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,gun-control
+47.0,47.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,universal health care
+34.0,34.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,immigration
+29.0,29.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,elections-2020
+66.0,66.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,vaccine
+23.0,23.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,vaccines
+53.0,53.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,gun control
+27.0,27.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,trump-presidency
+27.0,27.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,middle-class
+29.0,29.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,sport
+21.0,21.0,100.0,topic,d4data/bias-detection-model,./clean_datasets/TESTING_DATAFRAME.csv,coronavirus
+289.0,289.0,100.0,type,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,none
+203.0,203.0,100.0,type,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,left
+136.0,136.0,100.0,type,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,center
+197.0,197.0,100.0,type,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,right
+30.0,30.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,white-nationalism
+22.0,22.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,gender
+7.0,7.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,#metoo
+68.0,68.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,marriage-equality
+54.0,54.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,taxes
+22.0,22.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,student-debt
+50.0,50.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,black lives matter
+40.0,40.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,environment
+35.0,35.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,islam
+46.0,46.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,abortion
+34.0,34.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,blm
+26.0,26.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,international-politics-and-world-news
+35.0,35.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,gun-control
+47.0,47.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,universal health care
+34.0,34.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,immigration
+29.0,29.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,elections-2020
+66.0,66.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,vaccine
+23.0,23.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,vaccines
+53.0,53.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,gun control
+27.0,27.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,trump-presidency
+27.0,27.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,middle-class
+29.0,29.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,sport
+21.0,21.0,100.0,topic,./fine_tuned/D4DATA,./clean_datasets/TESTING_DATAFRAME.csv,coronavirus
+0.0,100.0,0.0,type,./fine_tuned/D4DATA,./clean_datasets/BIG_TESTING_DATAFRAME.csv,YYY
+0.0,100.0,0.0,topic,./fine_tuned/D4DATA,./clean_datasets/BIG_TESTING_DATAFRAME.csv,XXX
